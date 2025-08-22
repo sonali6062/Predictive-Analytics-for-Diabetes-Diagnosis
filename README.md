@@ -98,5 +98,3 @@ While Logistic Regression achieved the highest overall accuracy, the **K-Nearest
     print(f"Prediction (0: Non-Diabetic, 1: Diabetic): {prediction[0]}")
     ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
